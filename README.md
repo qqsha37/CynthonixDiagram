@@ -14,15 +14,15 @@ npm run console
 
 
 Команды:
-do 1:	     Столбчатая диаграмма
-do 2:        Круговая диаграмма
-do 3:	     Линейная диаграмма
-add 100-Имя: Добавить/обновить запись, add 500-Продажи
-del Имя:     Удалить запись, del Продажи
-list:        Показать все записи
-clear:       Очистить все данные
-help:      	 Показать справку
-exit:      	 Выйти
+do 1:	     Столбчатая диаграмма; 
+do 2:        Круговая диаграмма; 
+do 3:	     Линейная диаграмма; 
+add 100-Имя: Добавить/обновить запись, add 500-Продажи; 
+del Имя:     Удалить запись, del Продажи; 
+list:        Показать все записи; 
+clear:       Очистить все данные; 
+help:      	 Показать справку; 
+exit:      	 Выйти; 
 
 Для изменения цветов В main.jsx найдите массив colors и измените по rgba.
 Для изменения размера В main.jsx измените стили контейнера.
@@ -43,15 +43,15 @@ npm run dev
 npm run console
 
 Commands:
-do 1: Bar chart
-do 2: Pie chart
-do 3: Line chart
-add 100-Name: Add/update record, add 500-Sales
-del Name: Delete record, del Sales
-list: Show all records
-clear: Clear all data
-help: Show help
-exit: Exit
+do 1: Bar chart; 
+do 2: Pie chart; 
+do 3: Line chart; 
+add 100-Name: Add/update record, add 500-Sales; 
+del Name: Delete record, del Sales; 
+list: Show all records; 
+clear: Clear all data; 
+help: Show help; 
+exit: Exit; 
 
 To change colors In main.jsx, find the colors array and change it to rgba.
 To change the size In main.jsx, change the container styles.
